@@ -32,6 +32,12 @@ NA
 
 • 适配K210板卡，并考虑多平台的可扩展（ARM、Xtensa）
 
+### 项目导师
+
+• 黄齐，Bytecode Alliance RC / WAMR TSC Member , huangqi3@xiaomi.com
+
+• 小米公司Vela研发团队（含NuttX社区主要代码提交人）
+
 #### 难度
 
 中高
@@ -55,12 +61,6 @@ NA
 注意：下面的内容是建议内容，不要求必须全部完成。选择本项目的同学也可与导师联系，提出自己的新想法，如导师认可，可加入预期目标
 
 • 完成每个cpu core local的调度器，减少当前代码中全局锁的使用
-
-### 指导专家介绍及联系方式
-
-• 黄齐，Bytecode Alliance RC / WAMR TSC Member , huangqi3@xiaomi.com
-
-• 小米公司Vela研发团队（含NuttX社区主要代码提交人）
 
 ### 对参赛队提供的支持
 
